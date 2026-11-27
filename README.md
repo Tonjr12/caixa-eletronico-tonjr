@@ -19,7 +19,6 @@
     ├── tonjr_operacoes/        # Classe Banco
     ├── tonjr_utilitarios/      # Exceções customizadas
     ├── tonjr_mini_projeto.py   # Arquivo principal (menu CLI)
-    ├── LEIAME.txt
     └── .gitignore
    
 
